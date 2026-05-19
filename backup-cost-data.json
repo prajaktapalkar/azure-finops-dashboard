@@ -1,0 +1,18 @@
+[
+  {"date": "2026-05-01", "cost_usd": 1.25, "currency": "USD", "service_name": "Azure Functions", "resource_group": "finops-demo-rg", "export_timestamp": "2026-05-16T08:00:00"},
+  {"date": "2026-05-02", "cost_usd": 0.80, "currency": "USD", "service_name": "Storage", "resource_group": "finops-demo-rg", "export_timestamp": "2026-05-16T08:00:00"},
+  {"date": "2026-05-03", "cost_usd": 2.10, "currency": "USD", "service_name": "Azure Functions", "resource_group": "finops-demo-rg", "export_timestamp": "2026-05-16T08:00:00"},
+  {"date": "2026-05-04", "cost_usd": 0.45, "currency": "USD", "service_name": "Log Analytics", "resource_group": "finops-demo-rg", "export_timestamp": "2026-05-16T08:00:00"},
+  {"date": "2026-05-05", "cost_usd": 3.20, "currency": "USD", "service_name": "App Service", "resource_group": "finops-demo-rg", "export_timestamp": "2026-05-16T08:00:00"},
+  {"date": "2026-05-06", "cost_usd": 1.75, "currency": "USD", "service_name": "Storage", "resource_group": "finops-demo-rg", "export_timestamp": "2026-05-16T08:00:00"},
+  {"date": "2026-05-07", "cost_usd": 2.90, "currency": "USD", "service_name": "Azure Functions", "resource_group": "finops-demo-rg", "export_timestamp": "2026-05-16T08:00:00"},
+  {"date": "2026-05-08", "cost_usd": 0.60, "currency": "USD", "service_name": "Log Analytics", "resource_group": "finops-demo-rg", "export_timestamp": "2026-05-16T08:00:00"},
+  {"date": "2026-05-09", "cost_usd": 4.10, "currency": "USD", "service_name": "App Service", "resource_group": "finops-demo-rg", "export_timestamp": "2026-05-16T08:00:00"},
+  {"date": "2026-05-10", "cost_usd": 1.95, "currency": "USD", "service_name": "Storage", "resource_group": "finops-demo-rg", "export_timestamp": "2026-05-16T08:00:00"},
+  {"date": "2026-05-11", "cost_usd": 3.50, "currency": "USD", "service_name": "Azure Functions", "resource_group": "finops-demo-rg", "export_timestamp": "2026-05-16T08:00:00"},
+  {"date": "2026-05-12", "cost_usd": 0.90, "currency": "USD", "service_name": "Log Analytics", "resource_group": "finops-demo-rg", "export_timestamp": "2026-05-16T08:00:00"},
+  {"date": "2026-05-13", "cost_usd": 2.40, "currency": "USD", "service_name": "App Service", "resource_group": "finops-demo-rg", "export_timestamp": "2026-05-16T08:00:00"},
+  {"date": "2026-05-14", "cost_usd": 1.10, "currency": "USD", "service_name": "Storage", "resource_group": "finops-demo-rg", "export_timestamp": "2026-05-16T08:00:00"},
+  {"date": "2026-05-15", "cost_usd": 3.80, "currency": "USD", "service_name": "Azure Functions", "resource_group": "finops-demo-rg", "export_timestamp": "2026-05-16T08:00:00"},
+  {"date": "2026-05-16", "cost_usd": 2.25, "currency": "USD", "service_name": "App Service", "resource_group": "finops-demo-rg", "export_timestamp": "2026-05-16T08:00:00"}
+]
